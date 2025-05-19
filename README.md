@@ -122,6 +122,6 @@ To develop a user-friendly desktop application for booking flights using Python 
 B.Tech CSE, Amity University Noida (2022–2026)
 
 GitHub: [github.com/lakshayparashar](https://github.com/lakshayparashar28)  
-LinkedIn: [linkedin.com/in/lakshayparashar](https://linkedin.com/in/lakshay-parashar)
+LinkedIn: [linkedin.com/in/lakshayparashar](https://www.linkedin.com/in/lakshay-parashar-029568232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
